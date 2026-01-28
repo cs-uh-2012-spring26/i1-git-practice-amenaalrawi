@@ -6,3 +6,6 @@ I enjoyed reading this article because it not only addresses and answers the que
 
 # Proof Reading
 Article checked for typos
+
+# Comment by Nikhil Mundhra (nm4358)
+I liked how Osmani says "The best way to predict the future is to actively engineer it." in the end to wrap up his insights into this new AI driven era. Moreover, I was most intrigued with **5. The Education question**, where he questions if the "traditional" way of CS degrees will be overtaken by faster learning paths, given the student debt crisis and cost to companies training fresh grads due to a lack of relevant skills. 
