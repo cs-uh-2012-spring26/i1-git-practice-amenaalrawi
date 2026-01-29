@@ -4,4 +4,4 @@ Name: Amena Al Rawi
 # Git Practice
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
-Link to merged PR:
+Link to merged PR: https://github.com/ts5226/i1-git-practice-ts5226/pull/2
